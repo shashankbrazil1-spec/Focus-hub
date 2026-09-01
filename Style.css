@@ -80,3 +80,24 @@ main > p {
         font-size: 26px;
     }
 }
+body.dark {
+    background: #121212;
+    color: #ffffff;
+}
+
+body.dark header {
+    background: #1e1e1e;
+}
+
+body.dark .card {
+    background: #1e1e1e;
+}
+
+body.dark main > p {
+    color: #bbbbbb;
+}
+
+body.dark #themeBtn {
+    background: #333333;
+    color: white;
+}
